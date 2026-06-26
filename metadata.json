@@ -1,0 +1,6 @@
+{
+  "name": "MOB Ledger Console & Wallet",
+  "description": "An interactive MOB Network decentralized wallet, chat space, custom NFT portal, and Proof-of-Work blockchain ledger simulator featuring secure key management, real-time transaction consensus, dynamic fee estimation, and an intelligent Gemini consulting assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
